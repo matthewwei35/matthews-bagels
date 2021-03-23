@@ -74,3 +74,13 @@ a {
 .footer {
   padding-top: 5em;
 }
+
+.form-input {
+  font-family: 'Open Sans', sans-serif;
+  font-size: small;
+}
+
+.form-button {
+  font-family: 'Open Sans', sans-serif;
+  font-size: small;
+}
