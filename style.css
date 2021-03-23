@@ -1,0 +1,76 @@
+body {
+  font-family: 'Rasa', serif;
+}
+
+p, small, a {
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color:#585858;
+}
+
+/* Navbar */
+.navbar .navbar-brand {
+  font-family: 'Rasa', serif;
+  font-size: 2em;
+}
+
+.navbar .navbar-nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar .nav-item {
+  font-family: 'Open Sans', sans-serif;
+  padding: 0 1em;
+}
+
+/* Featurette */
+.featurette p {
+  font-size: larger;
+}
+
+.featurette h2 {
+  margin-top: 5em;
+}
+
+/* Hero */
+.hero h2, .hero p {
+  margin: 0;
+  padding: 1em;
+}
+
+/* Menu Nav */
+.menu-nav ul {
+  display: flex;
+  justify-content: center;
+}
+
+.menu-nav li {
+  margin-top: 1em;
+  padding: 0 1em;
+}
+
+.menu-nav a {
+  background-color: #000;
+  color: #fff;
+  padding: 0.5em 1em;
+  border-radius: 10%;
+}
+
+/* Menu Section */
+.menu-section h2 {
+  padding: 0 0.75em;
+}
+
+/* Footer */
+.footer {
+  padding-top: 5em;
+}
